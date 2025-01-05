@@ -11,6 +11,7 @@ command + p >> go to file
 command + b >> explorer
 command + shfit + e >> file explorer
 command + shift + f >> search
+command + ` >> switch between vscode instance
 ```
 
 ### terminal:
@@ -19,4 +20,12 @@ command + k >> clear
 control + a or e >> beginning of end of line
 option + left/right arrow >> jump to previous/next word
 control + u >> clear line
+```
+
+### editor:
+```
+command + up/down > begining/end of file
+option + left/right > jump between words
+option + up/down > move line
+command + l > whole line
 ```
