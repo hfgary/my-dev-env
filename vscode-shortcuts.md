@@ -9,6 +9,8 @@ command + w >> close file
 command + shift + p >> command palette
 command + p >> go to file
 command + b >> explorer
+command + shfit + e >> file explorer
+command + shift + f >> search
 ```
 
 ### terminal:
