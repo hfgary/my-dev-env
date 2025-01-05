@@ -3,7 +3,7 @@
 control + ` >> terminal
 command + 1 >> editor group 1
 command + shift + [ or ] >> move to previous/next editor
-command + shift + i >> copilot chat
+control + command + i >> copilot chat
 command + n >> new file
 command + w >> close file
 command + shift + p >> command palette
