@@ -12,6 +12,7 @@ command + b >> explorer
 command + shfit + e >> file explorer
 command + shift + f >> search
 command + ` >> switch between vscode instance
+command + j >> toggle terminal
 ```
 
 ### terminal:
